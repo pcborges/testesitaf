@@ -1,0 +1,1 @@
+export const baseApiUrl = "http://castwk082:7101/IPVAService/RSConsultaIPVA"
